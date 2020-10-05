@@ -2,7 +2,10 @@
  * FRONT-END WEB DEVELOPMENT WITH REACT
  * COURSERA.ORG
  * ALI ALTAMASH
+ * 
+ * NOTE: USE THIS AS A GUIDE ONLY
  */
+
 import React, { Component } from 'react';
 import { Card, CardImg, CardBody, CardTitle, CardText } from 'reactstrap';
 
@@ -25,8 +28,6 @@ class DishDetail extends Component {
             <div />
         );
     }
-
-
 
     renderComments(comments) {
         if (comments != null) {

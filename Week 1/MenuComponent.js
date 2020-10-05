@@ -1,3 +1,11 @@
+/** WEEK 1 SOLUTION
+ * FRONT-END WEB DEVELOPMENT WITH REACT
+ * COURSERA.ORG
+ * ALI ALTAMASH
+ * 
+ * NOTE: USE THIS AS A GUIDE ONLY
+ */
+
 import React, { Component } from 'react'; 
 import { Card, CardImg, CardImgOverlay, CardText, CardBody, CardTitle } from 'reactstrap';
 import DishDetail from "./DishdetailComponent";
